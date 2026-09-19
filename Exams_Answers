@@ -8,8 +8,15 @@ Mr. Ernesto Razo Jr. · OOP · Semi-Final Laboratory Exam · Page 16
 Why is the list in RideManager typed ArrayList&lt;Ride&gt; and not ArrayList&lt;Jeepney&gt;?
 Your answer:
 
+Because array list ride can show all the type of vehicles if jeepney it only shows the jeepney it it might
+get error to other files becuase the syntanx is the parent class of ride not jeepney
+parent class is ride it must be on array list because it will show the classes of ride
+because if only jeepney it will error or it will only show jeepney
+
 
 ## Question 2
 In showStudentDiscounts(), why must you check instanceof before the cast?
 Your answer:
 
+because so u can overide the classses and parent class because the instances of each line
+consist of different type of over ridng of class
